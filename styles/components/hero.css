@@ -89,7 +89,7 @@
     }
     
     .hero__title{
-        font-size: var(--size-7xl);
+        font-size: var(--size-6xl);
     }
     
     .hero__description{

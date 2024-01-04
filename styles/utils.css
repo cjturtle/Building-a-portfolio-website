@@ -21,7 +21,7 @@
     font-weight: 600;
     text-decoration: none;
     letter-spacing: -0.05em;
-    background-color: var(--clr-rose);
+    background-color: var(--clr-green);
     color: var(--clr-light);
     padding: 0.5em 1em ;
     border-radius: 6px;
@@ -40,7 +40,6 @@
     margin-right: auto;
     padding-left: 0.5rem;
     padding-right: 0.5rem;
-    /* borderto delete */
     /* border: 1px solid red;  */
 }
 
