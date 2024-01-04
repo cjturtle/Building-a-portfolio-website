@@ -17,15 +17,15 @@
 .hero__subtitle{
     color: var(--clr-slate800);
     font-size: var(--size-base);
-    line-height: 0.9;
+    line-height: 0.01;
 }
 
 .hero__title{
     color: var(--clr-slate400);
     text-transform: uppercase;
     font-size: var(--size-4xl);
-    letter-spacing: -0.05em;
-    line-height: 0.9;
+    letter-spacing: .04em;
+    line-height: 0.8;
 }
 
 .hero__description{
@@ -113,15 +113,15 @@
     }
     
     .hero__subtitle{
-        font-size: var(--size-4xl);
+        font-size: var(--size-3xl);
     }
     
     .hero__title{
-        font-size: var(--size-9xl);
+        font-size: var(--size-7xl);
     }
     
     .hero__description{
-        font-size: var(--size-xl);
+        font-size: var(--size-lg);
     
     }
     
